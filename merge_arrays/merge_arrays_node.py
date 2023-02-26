@@ -1,3 +1,7 @@
+#Shufan Sun
+#2023-02-26
+
+
 import rclpy
 from rclpy.node import Node
 from std_msgs.msg import Int32MultiArray
